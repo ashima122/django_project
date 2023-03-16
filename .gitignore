@@ -1,0 +1,9 @@
+env
+authentication/__pycache__
+authentication/migrations
+dashboard/__pycache__
+dashboard/migrations
+db.sqlite3
+django_project/__pycache__
+media
+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
